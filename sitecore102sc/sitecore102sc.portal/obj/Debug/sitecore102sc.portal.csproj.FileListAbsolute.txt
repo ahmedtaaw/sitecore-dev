@@ -72,8 +72,8 @@ C:\sitecore-dev\sitecore102sc\sitecore102sc.portal\bin\System.Web.WebPages.Razor
 C:\sitecore-dev\sitecore102sc\sitecore102sc.portal\bin\Newtonsoft.Json.xml
 C:\sitecore-dev\sitecore102sc\sitecore102sc.portal\bin\Antlr3.Runtime.pdb
 C:\sitecore-dev\sitecore102sc\sitecore102sc.portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\sitecore-dev\sitecore102sc\sitecore102sc.portal\obj\Debug\sitecore102sc.portal.csproj.AssemblyReference.cache
 C:\sitecore-dev\sitecore102sc\sitecore102sc.portal\obj\Debug\sitecore102sc.portal.csproj.CoreCompileInputs.cache
 C:\sitecore-dev\sitecore102sc\sitecore102sc.portal\obj\Debug\sitecore102sc.portal.csproj.CopyComplete
 C:\sitecore-dev\sitecore102sc\sitecore102sc.portal\obj\Debug\sitecore102sc.portal.dll
 C:\sitecore-dev\sitecore102sc\sitecore102sc.portal\obj\Debug\sitecore102sc.portal.pdb
+C:\sitecore-dev\sitecore102sc\sitecore102sc.portal\obj\Debug\sitecore102sc.portal.csproj.AssemblyReference.cache
